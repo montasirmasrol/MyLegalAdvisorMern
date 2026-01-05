@@ -1,0 +1,6 @@
+uploads/documents/*
+!uploads/documents/.gitkeep
+
+node_modules
+.env
+.vercel
